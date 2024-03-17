@@ -17,7 +17,6 @@ mention the description here , mention what does your prototype does  , make sur
 | Y.S.V.N.SHANKAR | 99210042243@klu.ac.in |
 | KATTA TEJA | 99210042201@klu.ac.in |
 
-<div style="display: flex; flex-wrap: wrap;">
     <img https://drive.google.com/file/d/1efVBN7Qi2pWs1r16fwrEFAeQLo6hQWej/view?usp=drivesdk >
     <img https://drive.google.com/file/d/1eeQOhq6Cx5cj3lvfW4yJejkVl3t6LeVr/view?usp=drivesdk >
     <img https://drive.google.com/file/d/1edQh8AXPoqoL13mmOFJiupF-PAv3uBkI/view?usp=drivesdk >
