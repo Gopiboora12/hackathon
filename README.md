@@ -2,7 +2,7 @@
     <b>
         <a href="https://www.google.com"> Sample Chatbot </a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+    ⭐️This chatbot will give sample information  ⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
