@@ -5,7 +5,7 @@
     ⭐️This chatbot will give sample information  ⭐️ <br>
 </h1>
 
-# [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+# [`Website link`](http://www.google.com)  [`https://drive.google.com/file/d/1escYlwP5R9uGIQPbQLrfQMjHfU7Uz8kM/view?usp=drivesdk `](http://www.google.com) [`Other links `](http://www.google.com) 
 mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
 ## Team Details
 `Team number` : VH031
@@ -18,9 +18,9 @@ mention the description here , mention what does your prototype does  , make sur
 | KATTA TEJA | 99210042201@klu.ac.in |
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img https://drive.google.com/file/d/1efVBN7Qi2pWs1r16fwrEFAeQLo6hQWej/view?usp=drivesdk >
+    <img https://drive.google.com/file/d/1eeQOhq6Cx5cj3lvfW4yJejkVl3t6LeVr/view?usp=drivesdk >
+    <img https://drive.google.com/file/d/1edQh8AXPoqoL13mmOFJiupF-PAv3uBkI/view?usp=drivesdk >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
        <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
@@ -34,7 +34,7 @@ build a sample chatbot with simple inputs
   This project can be done with 3 languages 
   1.We are using html,css and javascript
   2.It will give some outputs with related inputs which are given as inputs
-  3.It will some general questions like hi,hello and how are you
+  3.It will  give some general questions like hi,hello and how are you
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
