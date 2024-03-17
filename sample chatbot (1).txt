@@ -1,0 +1,77 @@
+html code 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Interface</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-box" id="chat-box">
+            <div class="chat-message">Welcome to our virtual help-desk!</div>
+        </div>
+        <input type="text" id="user-input" placeholder="Type a message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+CSS code
+/* style.css */
+.chat-container {
+    max-width: 400px;
+    margin: auto;
+}
+
+.chat-box {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.chat-message {
+    margin-bottom: 10px;
+}
+
+#user-input {
+    width: calc(100% - 70px);
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+java script
+
+/ script.js
+function sendMessage() {
+    var userInput = document.getElementById("user-input").value;
+    appendMessage("user", userInput);
+    // Call backend API for processing userInput and getting bot response
+    // Example: fetch('/api/chatbot', { method: 'POST', body: JSON.stringify({ message: userInput }) })
+    //         .then(response => response.json())
+    //         .then(data => appendMessage("bot", data.response));
+    // For demonstration, I'm simulating a bot response:
+    var botResponse = "This is a sample bot response.";
+    appendMessage("bot", botResponse);
+    document.getElementById("user-input").value = "";
+}
+
+function appendMessage(sender, message) {
+    var chatBox = document.getElementById("chat-box");
+    var messageElement = document.createElement("div");
+    messageElement.classList.add("chat-message");
+    if (sender === "user") {
+        messageElement.textContent = "User: " + message;
+    } else {
+        messageElement.textContent = "Bot: " + message;
+    }
+    chatBox.appendChild(messageElement);
+    chatBox.scrollTop = chatBox.scrollHeight;
+}
