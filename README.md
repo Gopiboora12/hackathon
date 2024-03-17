@@ -17,7 +17,8 @@ mention the description here , mention what does your prototype does  , make sur
 | Y.S.V.N.SHANKAR | 99210042243@klu.ac.in |
 | KATTA TEJA | 99210042201@klu.ac.in |
 
-    <img https://drive.google.com/file/d/1efVBN7Qi2pWs1r16fwrEFAeQLo6hQWej/view?usp=drivesdk >
+ <div style="display: flex; flex-wrap: wrap>
+   <img https://drive.google.com/file/d/1efVBN7Qi2pWs1r16fwrEFAeQLo6hQWej/view?usp=drivesdk >
     <img https://drive.google.com/file/d/1eeQOhq6Cx5cj3lvfW4yJejkVl3t6LeVr/view?usp=drivesdk >
     <img https://drive.google.com/file/d/1edQh8AXPoqoL13mmOFJiupF-PAv3uBkI/view?usp=drivesdk >
     <img https://drive.google.com/file/d/1f67miIzoHSCK7HljW5MmUEHl_Q57G_Qm/view?usp=drivesdk">
@@ -34,7 +35,7 @@ build a sample chatbot with simple inputs
   1.We are using html,css and javascript
   2.It will give some outputs with related inputs which are given as inputs
   3.It will  give some general questions like hi,hello and how are you
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+
 
 ## Techstacks used 
 `HTML' , 'CSS', 'JAVASCRIPT'
