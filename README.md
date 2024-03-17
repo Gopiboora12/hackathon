@@ -17,13 +17,13 @@ mention the description here , mention what does your prototype does  , make sur
 | Y.S.V.N.SHANKAR | 99210042243@klu.ac.in |
 | KATTA TEJA | 99210042201@klu.ac.in |
 
- <div style="display: flex; flex-wrap: wrap>
-   <img https://drive.google.com/file/d/1efVBN7Qi2pWs1r16fwrEFAeQLo6hQWej/view?usp=drivesdk >
-    <img https://drive.google.com/file/d/1eeQOhq6Cx5cj3lvfW4yJejkVl3t6LeVr/view?usp=drivesdk >
-    <img https://drive.google.com/file/d/1edQh8AXPoqoL13mmOFJiupF-PAv3uBkI/view?usp=drivesdk >
-    <img https://drive.google.com/file/d/1f67miIzoHSCK7HljW5MmUEHl_Q57G_Qm/view?usp=drivesdk">
-       <img https://drive.google.com/file/d/1f-T83LZa8Ll9Sjw5X7XNSG0v7otCYXKa/view?usp=drivesdk >
-    <img https://drive.google.com/file/d/1ewCswZQPKW3ACT-_Q4nPw29V0hwQDUeB/view?usp=drivesdk >
+ <div style="display: flex; flex-wrap: wrap;">
+    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
+       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
 </div>
 
 ## Problem statement 
