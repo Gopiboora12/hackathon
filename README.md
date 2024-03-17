@@ -21,9 +21,9 @@ mention the description here , mention what does your prototype does  , make sur
     <img https://drive.google.com/file/d/1efVBN7Qi2pWs1r16fwrEFAeQLo6hQWej/view?usp=drivesdk >
     <img https://drive.google.com/file/d/1eeQOhq6Cx5cj3lvfW4yJejkVl3t6LeVr/view?usp=drivesdk >
     <img https://drive.google.com/file/d/1edQh8AXPoqoL13mmOFJiupF-PAv3uBkI/view?usp=drivesdk >
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img https://drive.google.com/file/d/1f67miIzoHSCK7HljW5MmUEHl_Q57G_Qm/view?usp=drivesdk">
+       <img https://drive.google.com/file/d/1f-T83LZa8Ll9Sjw5X7XNSG0v7otCYXKa/view?usp=drivesdk >
+    <img https://drive.google.com/file/d/1ewCswZQPKW3ACT-_Q4nPw29V0hwQDUeB/view?usp=drivesdk >
 </div>
 
 ## Problem statement 
@@ -46,7 +46,7 @@ This project can be run in the 2 websites
 2.second website is 'JSFIDDLE'
 
 # What's next ?
-We want implement this chatbot into college chatbot which will be used to give information ir full details about the colleges and schools admissions
+We want implement this chatbot into college chatbot which will be used to give information or full details about the colleges and schools admissions
 now a days so many chatbots are available but the college chatbot is not there so we want create college chatbot in the future
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.# hackathon
